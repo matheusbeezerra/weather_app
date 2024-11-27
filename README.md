@@ -6,3 +6,4 @@ Um projeto que consiste em medir a temperatura e as condições climáticas de c
 API Utilizada: https://openweathermap.org/# weather_app
 # weather_app
 # weather_app
+# weather_app
